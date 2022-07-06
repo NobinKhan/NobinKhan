@@ -33,46 +33,46 @@ Detailed-oriented, responsible, committed engineer, With a get-it-done, on-time,
 <!-- Experience Section -->
 <h1 align="center">My Experience</h1>
 <h2>Languages: </h2>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=go&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg'> </a>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=bash&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=python&sort= > <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=javascript&sort= > <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=go&sort= > <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=bash&sort= > <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> </a>
 
 <h2>Frameworks: </h2>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=django&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'> </a>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=fastapi&sort= > <img width ='32px' src ='./assets/fastapi.png'> </a>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=flask&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'> </a>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=echo&sort= > <img width ='32px' src ='./assets/echo.png'> </a>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=fiber&sort= > <img width ='32px' src ='./assets/fiber.png'> </a>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=svelte&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/svelte.svg'> </a>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=wordpress&sort= > <img width ='32px' src ='./assets/wordpress.png'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=django&sort= > <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=fastapi&sort= > <img width ='48px' src ='./assets/fastapi.png'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=flask&sort= > <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=echo&sort= > <img width ='48px' src ='./assets/echo.png'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=fiber&sort= > <img width ='48px' src ='./assets/fiber.png'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=svelte&sort= > <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/svelte.svg'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=wordpress&sort= > <img width ='48px' src ='./assets/wordpress.png'> </a>
 
 <h2>API: </h2>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=graphql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/graphql.svg'> </a>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=rest&sort= > <img width ='32px' src ='./assets/rest.png'> </a>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=websockets&sort= > <img width ='32px' src ='./assets/websockets.svg'> </a>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=grpc&sort= > <img width ='32px' src ='./assets/grpc-kubernetes.png'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=graphql&sort= > <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/graphql.svg'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=rest&sort= > <img width ='48px' src ='./assets/rest.png'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=websockets&sort= > <img width ='48px' src ='./assets/websockets.svg'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=grpc&sort= > <img width ='48px' src ='./assets/grpc-kubernetes.png'> </a>
 
 <h2>Containers: </h2>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=docker&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=kubernetes&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg'> </a>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=podman&sort= > <img width ='32px' src ='./assets/podman.png'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=docker&sort= > <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=kubernetes&sort= > <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=podman&sort= > <img width ='48px' src ='./assets/podman.png'> </a>
 
 <h2>Cloud Computing: </h2>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=gcp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gcp.svg'> </a>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=linode&sort= > <img width ='32px' src ='./assets/linode.png'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=firebase&sort= > <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=aws&sort= > <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=gcp&sort= > <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gcp.svg'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=linode&sort= > <img width ='48px' src ='./assets/linode.png'> </a>
 
 <h2>Database: </h2>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=redis&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redis.svg'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=mysql&sort= > <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=redis&sort= > <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redis.svg'> </a>
 
 <h2>Server, Reverse Proxy, Loadbalancer, Service Mesh: </h2>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=nginx&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nginx.svg'> </a>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=istio&sort= > <img width ='32px' src ='./assets/istio.png'> </a>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=traefik&sort= > <img width ='32px' src ='./assets/traefik.png'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=nginx&sort= > <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nginx.svg'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=istio&sort= > <img width ='48px' src ='./assets/istio.png'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=traefik&sort= > <img width ='48px' src ='./assets/traefik.png'> </a>
 <a><img src="./assets/colored.png" width="100%"></a>
 <!--End of Experience Section -->
 
