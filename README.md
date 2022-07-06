@@ -5,7 +5,7 @@
  <!-- Contact Section -->
 <h1 align="center">Contact</h1>
 
-<div align="center">
+<div>
 <a href="mailto:nazrulkhan.dk@gmail.com"><img src="./assets/Electronic.mail.png" alt="Gmail" height="50" title="Send mail"></a>
 
 <a href="https://t.me/nobinbd"><img src="./assets/telegram-logo-png-0.png" alt="Telegram" height="50" title="Telegram"></a>
