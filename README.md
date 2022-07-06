@@ -7,9 +7,13 @@
 
 <div align="center">
 <a href="mailto:nazrulkhan.dk@gmail.com"><img src="./assets/Electronic.mail.png" alt="Gmail" height="50" title="Send mail"></a>
+
 <a href="https://t.me/nobinbd"><img src="./assets/telegram-logo-png-0.png" alt="Telegram" height="50" title="Telegram"></a>
+
 <a href="https://join.skype.com/invite/v36Ml9Fp9G0k"><img src="./assets/skype-logo-3437CD4948-seeklogo.com.png" alt="Skype" height="50" title="Skype"></a>
+
 <a href="https://www.linkedin.com/in/nobinbd/"><img src="./assets/LinkedIn-PNG-HD-Images.png" alt="Linkdin" height="50" title="Linkdin profile"></a>
+
 <a href="https://www.facebook.com/me.TheMisirAli/"><img src="./assets/facebook-logo-2019.png" alt="Facebook" height="50" title="Facebook profile"></a>
 </div>
 <!-- End of Contact Section -->
