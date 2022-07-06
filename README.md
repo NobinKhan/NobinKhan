@@ -1,5 +1,5 @@
 <div align="center">
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=44FF5E&center=true&multiline=true&width=600&height=150&lines=Assalamu+Walaikum;Mohammad+Nazrul+Islam+Khan;Django%2C+Svelte%2C+DevOps%2C+Tech+Lead)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=44FF5E&center=true&multiline=true&width=600&height=150&lines=Assalamu+Walaikum;Mohammad+Nazrul+Islam+Khan;Django%2C+Svelte%2C+DevOps%2C+Tech+Lead)](https://git.io/typing-svg)
 </div>
 <div align="center">
     <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
