@@ -1,16 +1,19 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=44FF5E&center=true&multiline=true&width=600&height=150&lines=Assalamu+Walaikum;Mohammad+Nazrul+Islam+Khan;Django%2C+Svelte%2C+DevOps%2C+Tech+Lead)](https://git.io/typing-svg)
-
 </div>
+ <!-- Contact Section -->
+<h1 align="center">Contact</h1>
+
 <div align="center">
 <a href="mailto:nazrulkhan.dk@gmail.com"><img src="./assets/Electronic.mail.png" alt="Gmail" height="50" title="Send mail"></a>
 <a href="https://t.me/nobinbd"><img src="./assets/telegram-logo-png-0.png" alt="Telegram" height="50" title="Telegram"></a>
 <a href="https://join.skype.com/invite/v36Ml9Fp9G0k"><img src="./assets/skype-logo-3437CD4948-seeklogo.com.png" alt="Skype" height="50" title="Skype"></a>
 <a href="https://www.linkedin.com/in/nobinbd/"><img src="./assets/LinkedIn-PNG-HD-Images.png" alt="Linkdin" height="50" title="Linkdin profile"></a>
-<a href="https://www.facebook.com/me.TheMisirAli/"><img src="./assets/png-clipart-logo-computer-icons-facebook-facebook-blue-text.png" alt="Facebook" height="50" title="Facebook profile"></a>
-<a href="weixin://dl/chat?Nobin-Khan"><img src="./assets/wechat-logo-vector-11573943119imd7osvzef.png" alt="WeChat" height="50" title="WeChat"></a>
+<a href="https://www.facebook.com/me.TheMisirAli/"><img src="./assets/png-clipart-logo-computer-icons-facebook-facebook-blue-text.png" alt="Facebook" height="30" title="Facebook profile"></a>
 </div>
+<!-- End of Contact Section -->
+
 
 <h1 align="center">About</h1>
 
