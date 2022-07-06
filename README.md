@@ -30,16 +30,16 @@ Detailed-oriented, responsible, committed engineer, With a get-it-done, on-time,
 <a><img src="./assets/colored.png" width="100%"></a>
 <!-- End of about me section -->
 
+<!-- Experience Section -->
+<h1 align="center">My Experience</h1>
+<h2>Languages: <img src="./assets/c++.png" width="42px"> <img src="./assets/Golang.png" width="42px"> <img src="./assets/javascript.webp" width="42px"> <img src="./assets/python.png" width="42px"></h2>
+<a><img src="./assets/colored.png" width="100%"></a>
+<!--End of Experience Section -->
 
 ## By the way here are some of my statistics 🚀
-
-![NobinKhan's Profile Summury](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NobinKhan&theme=2077)
 ![NobinKhan's Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NobinKhan&theme=2077)
-![NobinKhan's github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NobinKhan&theme=2077)  
-
-![NobinKhan's github stats](https://github-readme-stats.vercel.app/api?username=NobinKhan&show_icons=true&theme=github_dark)
+![NobinKhan's Profile Summury](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NobinKhan&theme=2077)
+![NobinKhan's github stats](https://github-readme-stats.vercel.app/api?username=NobinKhan&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark)
 [![NobinKhan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NobinKhan&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
 [![NobinKhan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NobinKhan&theme=react-dark)](NobinKhan)
-
+<a><img src="./assets/colored.png" width="100%"></a>
