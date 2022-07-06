@@ -39,7 +39,7 @@ Detailed-oriented, responsible, committed engineer, With a get-it-done, on-time,
 <a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=bash&sort= > <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> </a>
 
 <h2>Frameworks: </h2>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=django&sort= > <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=django&sort= > <img width ='48px' src ='./assets/django.png'> </a>
 <a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=fastapi&sort= > <img width ='48px' src ='./assets/fastapi.png'> </a>
 <a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=flask&sort= > <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'> </a>
 <a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=echo&sort= > <img width ='48px' src ='./assets/echo.png'> </a>
