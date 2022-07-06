@@ -4,10 +4,12 @@
 
 </div>
 <div align="center">
-    <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
-    <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" /></a>
-    <a href="https://stackoverflow.com/users/11837259/ahmed-fathy"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" /></a>
-    <a href="https://t.me/ahmedfathydev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" /></a>
+<a href="mailto:nazrulkhan.dk@gmail.com"><img src="./assets/Electronic.mail.png" alt="Gmail" height="50" title="Send mail"></a>
+<a href="https://t.me/nobinbd"><img src="./assets/telegram-logo-png-0.png" alt="Telegram" height="50" title="Telegram"></a>
+<a href="https://join.skype.com/invite/v36Ml9Fp9G0k"><img src="./assets/skype-logo-3437CD4948-seeklogo.com.png" alt="Skype" height="50" title="Skype"></a>
+<a href="https://www.linkedin.com/in/nobinbd/"><img src="./assets/LinkedIn-PNG-HD-Images.png" alt="Linkdin" height="50" title="Linkdin profile"></a>
+<a href="https://www.facebook.com/me.TheMisirAli/"><img src="./assets/png-clipart-logo-computer-icons-facebook-facebook-blue-text.png" alt="Facebook" height="50" title="Facebook profile"></a>
+<a href="weixin://dl/chat?Nobin-Khan"><img src="./assets/wechat-logo-vector-11573943119imd7osvzef.png" alt="WeChat" height="50" title="WeChat"></a>
 </div>
 
 <h1 align="center">About</h1>
