@@ -5,29 +5,28 @@
  <!-- Contact Section -->
 <h1 align="center">Contact</h1>
 
-<div style="float:right">
-<a href="mailto:nazrulkhan.dk@gmail.com"><img src="./assets/Electronic.mail.png" alt="Gmail" height="50" title="Send mail"></a>
-
-<a href="https://t.me/nobinbd"><img src="./assets/telegram-logo-png-0.png" alt="Telegram" height="50" title="Telegram"></a>
-
+<div align="center">
+<a href= "mailto:nazrulkhan.dk@gmail.com" > <img src="./assets/Electronic.mail.png" alt="Gmail" width ='50px'> </a>
+<a href= "https://t.me/nobinbd" > <img src="./assets/telegram-logo-png-0.png" alt="Telegram" height="50" title="Telegram"> </a>
 <a href="https://join.skype.com/invite/v36Ml9Fp9G0k"><img src="./assets/skype-logo-3437CD4948-seeklogo.com.png" alt="Skype" height="50" title="Skype"></a>
-
 <a href="https://www.linkedin.com/in/nobinbd/"><img src="./assets/LinkedIn-PNG-HD-Images.png" alt="Linkdin" height="50" title="Linkdin profile"></a>
-
 <a href="https://www.facebook.com/me.TheMisirAli/"><img src="./assets/facebook-logo-2019.png" alt="Facebook" height="50" title="Facebook profile"></a>
 </div>
 <!-- End of Contact Section -->
 
+<!-- about me section -->
+<h1 align="center">About Me</h1>
 
-<h1 align="center">About</h1>
-
-**I am a Back-End Engineer with industry experience in building websites and web applications. Specialist in .NET Core Framework. Satisfactory background working with Angular, React, Blazor, and Razor Pages on multiple projects.**
-
-**I have powerful computer science knowledge and am eager to learn more concepts and deep dive into computer science tracks. Good in Object-Oriented Programming, Data Structures, Algorithms, Database Systems, Design Patterns, and Problem Solving skills. I practiced competitive programming a lot in college and enjoyed competing with my colleagues and mentors and participating in many programming competitions.**
-
-**I am passionating about learning .NET, Back-End technologies, DevOps, Web 3, Blockchain, Linux, Virtualization, and Cloud Computing.**
-
-**Detailed-oriented, responsible, committed engineer, With a get-it-done, on-time, and high-quality product spirit. Self-quick learner, self-motivated, and social.**
+<h3>
+I am a Back-End Engineer with industry experience in building websites and web applications. Specialist in Python Django Framework.
+</h3>
+<h3>
+I also have experience in FastApi, Svelte, Go Lang, Rest Api, Graphql, Docker, React, Websocket, DevOps, Kubernates, Blockchain, Linux, Virtualization, and Cloud Computing on multiple projects.
+</h3>
+<h3>
+Detailed-oriented, responsible, committed engineer, With a get-it-done, on-time, and high-quality product spirit. Self-quick learner, self-motivated, social and best for Tech Lead.
+</h3>
+<!-- End of about me section -->
 
 * 🔭 **I’m currently working on**: [Learning Lantern](https://github.com/learning-lantern).
 * 🔭 **I’m looking to collaborate on**: [LeetCode-Solutions](https://github.com/AhmedFathyDev/LeetCode-Solutions).
