@@ -33,9 +33,9 @@ Detailed-oriented, responsible, committed engineer, With a get-it-done, on-time,
 
 ## By the way here are some of my statistics 🚀
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NobinKhan&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NobinKhan&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NobinKhan&theme=2077)  
+![NobinKhan's Profile Summury](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NobinKhan&theme=2077)
+![NobinKhan's Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NobinKhan&theme=2077)
+![NobinKhan's github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NobinKhan&theme=2077)  
 
 ![NobinKhan's github stats](https://github-readme-stats.vercel.app/api?username=NobinKhan&show_icons=true&theme=github_dark)
 [![NobinKhan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NobinKhan&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
