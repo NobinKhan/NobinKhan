@@ -2,8 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=44FF5E&center=true&multiline=true&width=600&height=150&lines=Assalamu+Walaikum;Mohammad+Nazrul+Islam+Khan;Django%2C+Svelte%2C+DevOps%2C+Tech+Lead)](https://git.io/typing-svg)
 </div>
+<a><img src="./assets/line.gif"></a>
  <!-- Contact Section -->
-<h1 align="center">Contact</h1>
+<h1 align="center">Connect With Me <img src='./assets/handshake.gif' width="50px" height="40px"></h1> 
 
 <div align="center">
 <a href= "mailto:nazrulkhan.dk@gmail.com" > <img src="./assets/Electronic.mail.png" alt="Gmail" width ='50px'> </a>
@@ -14,6 +15,7 @@
 </div>
 <!-- End of Contact Section -->
 
+<a><img src="./assets/line.gif"></a>
 <!-- about me section -->
 <h1 align="center">About Me</h1>
 
@@ -21,38 +23,14 @@
 I am a Back-End Engineer with industry experience in building websites and web applications. Specialist in Python Django Framework.
 </h3>
 <h3>
-I also have experience in FastApi, Svelte, Go Lang, Rest Api, Graphql, Docker, React, Websocket, DevOps, Kubernates, Blockchain, Linux, Virtualization, and Cloud Computing on multiple projects.
+I also have experience in FastApi, Svelte, Go Lang, Rest Api, Graphql, Docker, React, Websocket, DevOps, Kubernates, Server, AWS, Linux, Virtualization, and Cloud Computing on multiple projects.
 </h3>
 <h3>
 Detailed-oriented, responsible, committed engineer, With a get-it-done, on-time, and high-quality product spirit. Self-quick learner, self-motivated, social and best for Tech Lead.
 </h3>
 <!-- End of about me section -->
+<a><img src="./assets/line.gif"></a>
 
-* 🔭 **I’m currently working on**: [Learning Lantern](https://github.com/learning-lantern).
-* 🔭 **I’m looking to collaborate on**: [LeetCode-Solutions](https://github.com/AhmedFathyDev/LeetCode-Solutions).
-* 🔭 **I’m looking to collaborate on**: [HackerRank-Solutions](https://github.com/AhmedFathyDev/HackerRank-Solutions).
-* 🔭 **I’m looking to collaborate on**: [Codeforces-Solutions](https://github.com/AhmedFathyDev/Codeforces-Solutions).
-* 🌱 **I’m currently learning**: `Computer Science` and `Software Engineering`.
-* 💬 **Ask me about**: `.NET`.
-* 📫 **How to reach me**: Catch and follow me from the `above links 👆`, in addition to `follow me here`.
-* 🤔 **I’m currently open for**: `A new job opportunity`.
-* 👨‍💻 **All of my projects are available at**: [My GitHub](https://github.com/AhmedFathyDev?tab=repositories).
-* 👨‍💻 **Hire me for Back-End Development jobs**: [Link to my UpWork Back-End Development Specialization](https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580748673863680).
-* 👨‍💻 **Hire me for Full Stack Development jobs**: [Link to my UpWork Full Stack Development Specialization](https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580755107926016).
-
-
-<h1 align="center">Skills</h1>
-
-```json
-{
-    "skills": [
-        "C#",                   "Object-Oriented Programming (OOP)",    "Data Structures",          "Problem Solving",
-        "Algorithms",           "Database Systems",                     ".NET Core",                "Microservices",
-        "ASP.NET Core MVC",     "ASP.NET Core Web API",                 "Entity Framework Core",    "JSON Web Token (JWT)",
-        "SQL",                  "Git",                                  "Unix / Linux",             "Clean Code"
-    ]
-}
-```
 
 <div align="center">
     <h1>Contribution Activity</h1>
