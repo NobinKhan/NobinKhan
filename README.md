@@ -60,9 +60,9 @@ Detailed-oriented, responsible, committed engineer, With a get-it-done, on-time,
 
 <h2>Cloud Computing: </h2>
 <a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=firebase&sort= > <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=aws&sort= > <img width ='48px' style="background-color:white;padding:20px;" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=aws&sort= > <img width ='48px' style="background-color:white;padding:5px;background-blend-mode: multiply;" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
 <a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=gcp&sort= > <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gcp.svg'> </a>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=linode&sort= > <img width ='55px' height='50' src ='./assets/Linode.png'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=linode&sort= > <img width ='55px' height='50' style="background-color:white;padding:5px;background-blend-mode: multiply;" src ='./assets/Linode.png'> </a>
 
 <h2>Database: </h2>
 <a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=mysql&sort= > <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
