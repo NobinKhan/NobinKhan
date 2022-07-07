@@ -60,9 +60,9 @@ Detailed-oriented, responsible, committed engineer, With a get-it-done, on-time,
 
 <h2>Cloud Computing: </h2>
 <a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=firebase&sort= > <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=aws&sort= > <img width ='48px' style="background-color:white;padding:5px;background-blend-mode: multiply;" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=aws&sort= > <img width ='55px' height='50' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
 <a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=gcp&sort= > <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gcp.svg'> </a>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=linode&sort= > <img width ='55px' height='50' style="background-color:white;padding:5px;background-blend-mode: multiply;" src ='./assets/Linode.png'> </a>
+<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=linode&sort= > <img width ='85px' height='70'  src ='./assets/Linode.png'> </a>
 
 <h2>Database: </h2>
 <a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=mysql&sort= > <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
@@ -78,9 +78,9 @@ Detailed-oriented, responsible, committed engineer, With a get-it-done, on-time,
 
 ## By the way here are some of my statistics 🚀
 ![NobinKhan's Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NobinKhan&theme=2077)
+![NobinKhan's github stats](https://github-readme-stats.vercel.app/api?username=NobinKhan&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark)
 ![NobinKhan's Profile Summury](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NobinKhan&theme=2077)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NobinKhan&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-![NobinKhan's github stats](https://github-readme-stats.vercel.app/api?username=NobinKhan&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark)
 [![NobinKhan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NobinKhan&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![NobinKhan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NobinKhan&theme=react-dark)](NobinKhan)
 <a><img src="./assets/colored.png" width="100%"></a>
