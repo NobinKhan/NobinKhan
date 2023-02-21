@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=44FF5E&center=true&multiline=true&width=600&height=150&lines=Assalamu+Walaikum;Mohammad+Nazrul+Islam+Khan;Django%2C+Svelte%2C+DevOps%2C+Tech+Lead)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=44FF5E&center=true&multiline=true&width=600&height=150&lines=Assalamu+Walaikum;Mohammad+Nazrul+Islam+Khan;Django%2C+docker%2C+Microservice%2C+Team+Lead)](https://git.io/typing-svg)
 </div>
 
  
