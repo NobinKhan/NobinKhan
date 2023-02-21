@@ -1,6 +1,5 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=44FF5E&center=true&multiline=true&width=600&height=150&lines=Assalamu+Walaikum;Mohammad+Nazrul+Islam+Khan; Django%2C+Docker%2C+Microservice%2C+Team+Lead)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=1500&color=88D4DA&center=true&vCenter=true&multiline=true&width=750&height=120&lines=Assalamu-Walaikum;Mohammad+Nazrul+Islam+Khan+(NobinKhan);Django%2C+Docker%2C+Microservice%2C+Team-Lead" alt="Typing SVG" /></a>
 </div>
 
  
