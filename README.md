@@ -18,13 +18,13 @@
 <!-- about me section -->
 <h1 align="center">About Me</h1>
 <h3>
-I am a Back-End Engineer with industry experience in building websites and web applications. Specialist in Python Django Framework.
+I am a Back-End Engineer with industry experience in building websites, web applications, Api develope and some E-commerce Solutions. Specialist in Python Django Framework.
 </h3>
 <h3>
-I also have experience in FastApi, Svelte, Go Lang, Rest Api, Graphql, Docker, React, Websocket, DevOps, Kubernates, Server, AWS, Linux, Virtualization, and Cloud Computing on multiple projects.
+I also have experience in FastApi, Rest-Api, Graphql, Docker, Microservice, Websocket, DevOps, Kubernates, Server, AWS, Linux, Virtualization, and Cloud Computing on multiple projects.
 </h3>
 <h3>
-Detailed-oriented, responsible, committed engineer, With a get-it-done, on-time, and high-quality product spirit. Self-quick learner, self-motivated, social and best for Tech Lead.
+Detailed-oriented, responsible, committed engineer, With a get-it-done, on-time, and high-quality product spirit. Self-quick learner, self-motivated, social and best for Team-Lead.
 </h3>
 <a><img src="./assets/colored.png" width="100%"></a>
 <!-- End of about me section -->
@@ -34,7 +34,6 @@ Detailed-oriented, responsible, committed engineer, With a get-it-done, on-time,
 <h2>Languages: </h2>
 <a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=python&sort= > <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=javascript&sort= > <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=go&sort= > <img width ='55px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg'> </a>
 <a href= https://github.com/NobinKhan?tab=repositories&q=&type=&language=bash&sort= > <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> </a>
 
 <h2>Frameworks: </h2>
